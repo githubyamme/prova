@@ -1,15 +1,15 @@
-Comune facile Yamme srl
-#######################
+Prova immagine Cavernago
+########################
 
 La soluzione "facile" per il sito del tuo Comune. 
 Con un solo inserimento, aggiorni il sito, l'app e 
 invii automaticamente la newsletter.
 
 
-Comune facile 
+Comune Cavernago 
 
 .. toctree::
    :maxdepth: 2
    :caption: Indice dei contenuti
 
-   Manuale.rst
+   Immagine cavernago.rst
