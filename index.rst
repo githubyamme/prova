@@ -1,5 +1,5 @@
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: Indice dei contenuti
  
    Immagine cavernago.rst
