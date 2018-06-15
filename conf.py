@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Comune-Facile'
+project = 'Prova Immagine Cavernago'
 copyright = '2016, Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)'
 
 # The name of the Pygments (syntax highlighting) style to use.
