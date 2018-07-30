@@ -1,5 +1,7 @@
-.. toctree::
-   :maxdepth: 0
-   :caption: Indice dei contenuti
- 
-   Immagine cavernago.rst
+\ |IMG1|\ huhdufhughuguhwughuehug
+
+.. bottom of content
+
+.. |IMG1| image:: static/Documento_senza_titolo_1.jpeg
+   :height: 454 px
+   :width: 601 px
